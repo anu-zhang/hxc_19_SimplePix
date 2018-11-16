@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ffc7cc49-c71e-4e5d-a648-918f7e5442e2" name="static" url="http://59.110.154.245">
+        <fileTransfer host="59.110.154.245" port="22" rootFolder="/home/zhangmengke/www/static" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
